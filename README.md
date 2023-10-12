@@ -16,9 +16,9 @@ O primeiro programa feito em python, criado para personalizar alarmes com minhas
 De certa forma um jogo, programado em python, foi desenvolvido como uma brincadeira para aprender mais nessa linguagem. Utiliza banco de dados em SQL para armazenar as informações do jogador e utiliza a biblioteca Tkinter como principal interface grafica. Obs: censurado devido conteúdo "improprio".
 
 <div>
-  <img src="https://user-images.githubusercontent.com/107645656/174714066-8b6ceb7a-4d18-4aeb-96cd-7fa795a8735e.png" width=330/>
-  <img src="https://user-images.githubusercontent.com/107645656/174714839-93616287-f464-4052-99dc-a601dfc5a646.png" width=330/>
-  <img src="https://user-images.githubusercontent.com/107645656/174714877-94c1fda9-5e68-4e90-a866-c98fb2e25edf.png" width=330/>
+  <img src="https://user-images.githubusercontent.com/107645656/174714066-8b6ceb7a-4d18-4aeb-96cd-7fa795a8735e.png" width=250/>
+  <img src="https://user-images.githubusercontent.com/107645656/174714839-93616287-f464-4052-99dc-a601dfc5a646.png" width=250/>
+  <img src="https://user-images.githubusercontent.com/107645656/174714877-94c1fda9-5e68-4e90-a866-c98fb2e25edf.png" width=250/>
 </div>
 
 ### O Ademiro
@@ -42,10 +42,10 @@ Outro bot criado foi o Brololo Jr., que foi criado para moderar e integrar um se
 O bot foi refeito, desta vez usando Java, e foi inserido em um plugin de Minecraft. Com essa mudança foi possivel aumentar o desempenho do bot, além de trazer melhorias para o sistema de proteção de conta, através do vinculo com a conta do discord de cada jogador. Outra adição foi o chat integrado entre o servidor do Discord e o servidor de Minecraft.
 
 <div>
-  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/440cc948-e375-4b40-82bb-600d70bc6687" height=200/>
-  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/4dd12c06-8766-4aa6-b1f4-cb261306d396" height=200>
-  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/9b4776f2-f1d2-4bc0-9d12-1cba71005d37" height=270/>
-  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/537e864c-80c1-4c4b-8298-6151c3133430" height=270/>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/440cc948-e375-4b40-82bb-600d70bc6687" height=150/>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/4dd12c06-8766-4aa6-b1f4-cb261306d396" height=150>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/9b4776f2-f1d2-4bc0-9d12-1cba71005d37" height=150/>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/537e864c-80c1-4c4b-8298-6151c3133430" height=150/>
 </div>
 
 ### Sstuffs
