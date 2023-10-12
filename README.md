@@ -1,5 +1,6 @@
 # Malciu
-Sou um jovem programador extremamente apaixonado em desenvolver codigos, soluções e qualquer ideia que envolva programação. Atualmente estou em dois projetos, um deles é o desenvolvimento de um jogo sobre a Cidade de Goiás Velho e o outro projeto é o desenvolvimento de um robo de duto inspeção, semelhante ao VOR50MC da BrasilRobots. Aberto a qualquer proposta de projetos.[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=556284401394/)
+Sou um jovem programador extremamente apaixonado em desenvolver codigos, soluções e qualquer ideia que envolva programação. Atualmente estou em dois projetos, um deles é o desenvolvimento de um jogo sobre a Cidade de Goiás Velho e o outro projeto é o desenvolvimento de um robo de duto inspeção, semelhante ao VOR50MC da BrasilRobots. Aberto a qualquer proposta de projetos.
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=556284401394/)
 
 ![Marcio's Stats](https://github-readme-stats.vercel.app/api?username=MalciuK&show_icons=true&theme=tokyonight)
 
@@ -30,15 +31,25 @@ O Ademiro é o nome do bot do servidor dos meus amigos no discord, após criar o
 </div>
 
 ### Brololo Jr.
-Outo bot criado foi o Brololo Jr., que foi criado para moderar e integrar um servidor de discord com um servidor de minecraft que eu abri para meus amigos. Foi feito da mesma forma que o Ademiro, as funções mais interessantes são a de ler o console do cmd em tempo real e listar os jogadores online e proteger a conta de jogadores conferindo o IP.
+Outro bot criado foi o Brololo Jr., que foi criado para moderar e integrar um servidor de discord com um servidor de Minecraft que eu abri para meus amigos. Foi feito da mesma forma que o Ademiro em JavaScript usando NodeJs, as funções mais interessantes são as de listar os jogadores online e proteger a conta de jogadores conferindo o IP.
 
 <div>
   <img src="https://user-images.githubusercontent.com/107645656/174721381-bcefbbf3-ce07-4828-87f0-65ad6cb129ce.png" height=270/>
   <img src="https://user-images.githubusercontent.com/107645656/174721812-c3244698-6422-499f-b1fc-9f67c74bea55.png" width=500/>
 </div>
 
+#### Brololo Jr. - Update
+O bot foi refeito, desta vez usando Java, e foi inserido em um plugin de Minecraft. Com essa mudança foi possivel aumentar o desempenho do bot, além de trazer melhorias para o sistema de proteção de conta, através do vinculo com a conta do discord de cada jogador. Outra adição foi o chat integrado entre o servidor do Discord e o servidor de Minecraft.
+
+<div>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/440cc948-e375-4b40-82bb-600d70bc6687" height=200/>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/4dd12c06-8766-4aa6-b1f4-cb261306d396" height=200>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/9b4776f2-f1d2-4bc0-9d12-1cba71005d37" height=270/>
+  <img src="https://github.com/MalciuK/MalciuK/assets/107645656/537e864c-80c1-4c4b-8298-6151c3133430" height=270/>
+</div>
+
 ### Sstuffs
-Sstuuffs é um jogo online que ainda está em desenvolvimento. Foi programado em C# utilizando a plataforma do Unity, utiliza JSON como armazenamento.
+Sstuuffs é um jogo online que foi descontinuado. Foi programado em C# utilizando a plataforma do Unity, utiliza JSON como armazenamento.
 
 <div>
   <img src="https://user-images.githubusercontent.com/107645656/174722257-fecbafb6-0696-4ec9-8a9e-c79544b0bdbd.png" width=250/>
