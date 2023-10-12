@@ -16,9 +16,9 @@ O primeiro programa feito em python, criado para personalizar alarmes com minhas
 De certa forma um jogo, programado em python, foi desenvolvido como uma brincadeira para aprender mais nessa linguagem. Utiliza banco de dados em SQL para armazenar as informações do jogador e utiliza a biblioteca Tkinter como principal interface grafica. Obs: censurado devido conteúdo "improprio".
 
 <div>
-  <img src="https://user-images.githubusercontent.com/107645656/174714066-8b6ceb7a-4d18-4aeb-96cd-7fa795a8735e.png" width=250/>
-  <img src="https://user-images.githubusercontent.com/107645656/174714839-93616287-f464-4052-99dc-a601dfc5a646.png" width=250/>
-  <img src="https://user-images.githubusercontent.com/107645656/174714877-94c1fda9-5e68-4e90-a866-c98fb2e25edf.png" width=250/>
+  <img src="https://user-images.githubusercontent.com/107645656/174714066-8b6ceb7a-4d18-4aeb-96cd-7fa795a8735e.png" width=330/>
+  <img src="https://user-images.githubusercontent.com/107645656/174714839-93616287-f464-4052-99dc-a601dfc5a646.png" width=330/>
+  <img src="https://user-images.githubusercontent.com/107645656/174714877-94c1fda9-5e68-4e90-a866-c98fb2e25edf.png" width=330/>
 </div>
 
 ### O Ademiro
@@ -27,7 +27,7 @@ O Ademiro é o nome do bot do servidor dos meus amigos no discord, após criar o
 
 <div>
   <img src="https://user-images.githubusercontent.com/107645656/174720579-9ac10b78-8a64-4b79-9238-e475615d7fc9.png" height=300/>
-  <img src="https://user-images.githubusercontent.com/107645656/174720870-af894ba3-e82f-4d28-a188-faae15f9252e.png" width=500/>
+  <img src="https://user-images.githubusercontent.com/107645656/174720870-af894ba3-e82f-4d28-a188-faae15f9252e.png" height=300/>
 </div>
 
 ### Brololo Jr.
@@ -35,7 +35,7 @@ Outro bot criado foi o Brololo Jr., que foi criado para moderar e integrar um se
 
 <div>
   <img src="https://user-images.githubusercontent.com/107645656/174721381-bcefbbf3-ce07-4828-87f0-65ad6cb129ce.png" height=270/>
-  <img src="https://user-images.githubusercontent.com/107645656/174721812-c3244698-6422-499f-b1fc-9f67c74bea55.png" width=500/>
+  <img src="https://user-images.githubusercontent.com/107645656/174721812-c3244698-6422-499f-b1fc-9f67c74bea55.png" height=270/>
 </div>
 
 #### Brololo Jr. - Update
