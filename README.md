@@ -1,5 +1,5 @@
 # Malciu
-Sou um jovem programador extremamente apaixonado em desenvolver codigos, soluções e qualquer ideia que envolva programação. Atualmente estou em dois projetos, um deles é o desenvolvimento de um jogo sobre a Cidade de Goiás Velho e o outro projeto é o desenvolvimento de um robo de duto inspeção, semelhante ao VOR50MC da BrasilRobots. Aberto a qualquer proposta de projetos.
+Sou um jovem programador extremamente apaixonado em desenvolver codigos, soluções e qualquer ideia que envolva programação. Atualmente estou em um projeto de desenvolvimento de um jogo sobre a Cidade de Goiás Velho e trabalhando na empresa COTY. Aberto a qualquer proposta de projetos.
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=556284401394/)
 
 ![Marcio's Stats](https://github-readme-stats.vercel.app/api?username=MalciuK&show_icons=true&theme=tokyonight)
