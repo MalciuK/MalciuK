@@ -1,5 +1,5 @@
 # Malciu
-Sou um jovem programador extremamente apaixonado em desenvolver codigos, soluções e qualquer ideia que envolva programação. Atualmente estou em um projeto de desenvolvimento de um jogo sobre a Cidade de Goiás Velho e trabalhando na empresa COTY. Aberto a qualquer proposta de projetos.
+Sou um jovem programador extremamente apaixonado em desenvolver códigos, soluções e qualquer ideia que envolva programação, gosto muito de projetos robustos de várias etapas, focados em performance e eficiência. Meu maior hobby é programar coisas que eu nunca tentei antes, o que me ajuda muito a conhecer outras áreas e linguagens. Atualmente estou em um projeto de desenvolvimento de um jogo sobre a Cidade de Goiás Velho e trabalhando na empresa COTY. Estou aberto a qualquer proposta de projetos!
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=556284401394/)
 
 ![Marcio's Stats](https://github-readme-stats.vercel.app/api?username=MalciuK&show_icons=true&theme=tokyonight)
